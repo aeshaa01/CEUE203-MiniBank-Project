@@ -1,0 +1,7 @@
+========== MINIBANK REPORT ==========
+Total accounts: 2
+Total bank balance: Rs. 8500.00
+-------------------------------------
+Account ID: A101 | Holder: Aesha | Balance: Rs. 4500.00
+Account ID: A102 | Holder: Grishma | Balance: Rs. 4000.00
+=====================================

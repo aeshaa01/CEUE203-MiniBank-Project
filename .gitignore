@@ -1,0 +1,5 @@
+﻿*.class
+out/
+data/accounts.dat
+.vscode/
+.idea/
